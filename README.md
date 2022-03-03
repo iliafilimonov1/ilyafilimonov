@@ -4,6 +4,7 @@
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=ilyafilimonov&style=flat)
+[![Github](https://img.shields.io/badge/-ilyafilimonov-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/ilyafilimonov)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![ilyafilimonov's github stats](https://github-readme-stats.vercel.app/api?username=ilyafilimonov&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
