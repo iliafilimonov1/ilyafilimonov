@@ -1,1 +1,12 @@
-![Metrics](https://metrics.lecoq.io/ilyafilimonov?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/ilya-filimonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-filimonov/)
+[![Codewars](https://www.codewars.com/users/ilya_filimonov/badges/micro)](https://www.codewars.com/users/ilya_filimonov)
+
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=ilyafilimonov&style=flat)
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![ilyafilimonov's github stats](https://github-readme-stats.vercel.app/api?username=ilyafilimonov&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+
+
+
