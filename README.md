@@ -1,6 +1,7 @@
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/ilya-filimonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-filimonov/)
 [![Codewars](https://www.codewars.com/users/ilya_filimonov/badges/micro)](https://www.codewars.com/users/ilya_filimonov)
+[![LeetCode](https://leetcode.com/ilyafilimonov)](https://leetcode.com/ilyafilimonov)
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=ilyafilimonov&style=flat)
