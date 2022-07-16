@@ -1,5 +1,5 @@
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/ilya-filimonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilia-filimonov1/)
+[![Linkedin](https://img.shields.io/badge/ilya-filimonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/illiafilimonov1)
 [![Codewars](https://www.codewars.com/users/ilya_filimonov/badges/micro)](https://www.codewars.com/users/ilya_filimonov)
 [![LeetCode user ilyafilimonov](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Filyafilimonov&logo=leetcode&logoColor=yellow)](https://leetcode.com/ilyafilimonov/)
 
